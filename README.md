@@ -68,7 +68,7 @@ Verify your download against `SHA256SUMS.txt` on the release.
 
 ## Links
 
-- Website: https://smolt-stage.com/home/en/zume-editor.html
+- Website: [English](https://smolt-stage.com/home/en/zume-editor.html) · [日本語](https://smolt-stage.com/home/ja/zume-editor.html)
 - Help & docs: https://zume-editor-dev.github.io/zume-editor-help/
 - Feedback: https://github.com/zume-editor-dev/zume-editor-help/issues
 
